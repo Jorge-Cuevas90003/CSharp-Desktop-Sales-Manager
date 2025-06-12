@@ -11,22 +11,22 @@ A comprehensive desktop sales and inventory management system built with C# WinF
 ### Main Dashboard
 The main dashboard provides an at-a-glance overview of key business metrics, including total clients, sales volume, and dynamic charts for top customer purchases and frequency.
 
-![Main Dashboard](Prueba1/Imgs/dashboard.png)
+![Main Dashboard](prueba1/Imgs/dashboard.png)
 
 ### Client Management
 A full CRUD (Create, Read, Update, Delete) interface to manage all company clients. Data is displayed in a list view for easy access and modification.
 
-![Client Management](Prueba1/Imgs/client-management.png)
+![Client Management](prueba1/Imgs/client-management.png)
 
 ### Product & Inventory Management
 This module allows for the registration of new products, including details like brand, model, unit price, stock quantity, and rental fees.
 
-![Product Management](Prueba1/Imgs/product-management.png)
+![Product Management](prueba1/Imgs/product-management.png)
 
 ### Reporting with Crystal Reports
 The system uses SAP Crystal Reports to generate detailed, printable reports for sales and rentals, which can be filtered by date for specific insights.
 
-![Generated Report](Prueba1/Imgs/report.png)
+![Generated Report](prueba1/Imgs/report.png)
 
 ---
 
